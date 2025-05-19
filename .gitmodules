@@ -1,0 +1,9 @@
+[submodule "TeLIXClient"]
+	path = TeLIXClient
+	url = https://github.com/TeLIXSoftware/TeLIXClient.git
+[submodule "TeLIXAPI"]
+	path = TeLIXAPI
+	url = https://github.com/TeLIXSoftware/TeLIXAPI.git
+[submodule "TeLIXDash"]
+	path = TeLIXDash
+	url = https://github.com/TeLIXSoftware/TeLIXDash.git
